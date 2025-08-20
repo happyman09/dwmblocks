@@ -20,7 +20,7 @@ Customizable status bar modules for **DWM**. Display system info like clock, RAM
 Clone the repo and build:
 
 ```
-git clone https://github.com/<USERNAME>/dwmblocks.git
+git clone https://github.com/happyman09/dwmblocks.git
 cd dwmblocks
 make
 sudo make install
